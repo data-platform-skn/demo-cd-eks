@@ -14,7 +14,7 @@ spec:
         app: demo
     spec:
       containers:
-       - image: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/dev/java-spring-actuator:2b9a4aa4f7854c1cca6e5bd96c2b03596573d238
+       - image: 890324431850.dkr.ecr.ap-south-1.amazonaws.com/dev/java-spring-actuator:77b614ea2fb756ee2b3d535498d8b1f29b05015f
          name: demo
          ports:
          - containerPort: 8080
